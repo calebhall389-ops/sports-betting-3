@@ -1,3 +1,4 @@
+<div className="text-3xl font-bold text-red-500">NEW VERSION TEST</div>
 import React, { useCallback, useEffect, useMemo, useState } from "react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
